@@ -37,3 +37,7 @@ $ uv run script
 
 - https://fastapi.tiangolo.com/
 - https://docs.pydantic.dev/latest/
+
+## Examples
+
+- [#1 Controllers, routing and the module structure](examples/module)
