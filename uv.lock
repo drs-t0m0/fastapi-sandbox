@@ -155,6 +155,7 @@ dependencies = [
     { name = "fastapi", extra = ["standard"] },
     { name = "pydantic-settings" },
     { name = "tortoise-orm", extra = ["asyncpg"] },
+    { name = "typer" },
 ]
 
 [package.metadata]
@@ -162,6 +163,7 @@ requires-dist = [
     { name = "fastapi", extras = ["standard"], specifier = ">=0.115.12" },
     { name = "pydantic-settings", specifier = ">=2.9.1" },
     { name = "tortoise-orm", extras = ["asyncpg"], specifier = ">=0.25.0" },
+    { name = "typer", specifier = ">=0.15.3" },
 ]
 
 [[package]]

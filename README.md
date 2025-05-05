@@ -38,8 +38,12 @@ $ uv run script
 - https://fastapi.tiangolo.com/
 - https://docs.pydantic.dev/latest/
 - https://tortoise.github.io/
+- https://typer.tiangolo.com/
 
 ## Examples
 
 - [#1 Controllers, routing and the module structure](examples/module)
-- [#2 Setting up a PostgreSQL database with TypeORM](examples/db_orm)
+- [#2 Setting up a PostgreSQL database with Tortoise ORM](examples/db_orm)
+
+
+- [#144 Creating CLI applications with Typer](examples/cli)

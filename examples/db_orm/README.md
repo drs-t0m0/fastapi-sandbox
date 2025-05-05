@@ -1,4 +1,4 @@
-# Setting up a PostgreSQL database with TypeORM
+# Setting up a PostgreSQL database with Tortoise ORM
 
 このコードは、下記の概念をPythonエコシステムにマッピングします。
 
